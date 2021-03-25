@@ -8,7 +8,7 @@
 <img src="images/Screen Shot 2021-03-17 at 5.39.13 PM.png?raw=true"/>
 
 ---
-[Guitar Collection](/pdf/sample_presentation.pdf)
+[Guitar Collection](/guitar_collection_page.md)
 <img src="images/Screen Shot 2021-03-17 at 5.41.54 PM.png?raw=true"/>
 
 ---
