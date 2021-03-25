@@ -4,7 +4,7 @@
 
 ### Recent Projects 
 
-[The Fishing Report](/fishing_report_page)
+[The Fishing Report](/fishing_report_page.md)
 <img src="images/Screen Shot 2021-03-17 at 5.39.13 PM.png?raw=true"/>
 
 ---
