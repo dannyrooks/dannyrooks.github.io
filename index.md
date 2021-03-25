@@ -8,12 +8,12 @@
 <img src="images/Screen Shot 2021-03-17 at 5.39.13 PM.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Guitar Collection](/pdf/sample_presentation.pdf)
+<img src="images/Screen Shot 2021-03-17 at 5.41.54 PM.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Fly Patterns](http://example.com/)
+<img src="images/Screen Shot 2021-03-17 at 5.43.54 PM.png?raw=true"/>
 
 ---
 
