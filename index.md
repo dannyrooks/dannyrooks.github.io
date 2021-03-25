@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Recent Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[The Fishing Report](/sample_page)
+<img src="images/Screen Shot 2021-03-17 at 5.39.13 PM.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
