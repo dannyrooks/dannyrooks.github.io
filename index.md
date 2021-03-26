@@ -12,7 +12,7 @@
 <img src="images/Screen Shot 2021-03-17 at 5.41.54 PM.png?raw=true"/>
 
 ---
-[Fly Patterns](http://example.com/)
+[Fly Patterns](/fly_patterns_page.md)
 <img src="images/Screen Shot 2021-03-17 at 5.43.54 PM.png?raw=true"/>
 
 ---
