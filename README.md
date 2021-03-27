@@ -2,7 +2,7 @@
 
 ### Created using GitHub pages
 
-#### Check it out! http://dannyrooks.github.io 
+#### Check it out! https://dannyrooks.github.io 
 
 
 
