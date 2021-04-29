@@ -5,7 +5,8 @@
 ### Recent Projects 
 
 [The Fishing Report](/fishing_report_page.md)
-<img src="images/Animated GIF-downsized.gif ?raw=true"/>
+<img src="images/Screen Shot 2021-03-17 at 5.39.13 PM.png ?raw=true"/>
+<!-- <img src="images/Animated GIF-downsized.gif ?raw=true"/> -->
 
 ---
 [Guitar Collection](/guitar_collection_page.md)
