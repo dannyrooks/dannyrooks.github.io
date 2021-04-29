@@ -1,10 +1,7 @@
 title: Danny Rooker # your name (or website title) here
 logo: "/images/IMG_0076.jpeg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-   First description 
-# I am a recent graduate of Software Engineering from The Flatiron School's self-paced program, currently looking for a full-time role as a junior software developer. 
-# I have a background of over 10 years in culinary arts. After graduating from The Culinary Institute of America I worked as a line cook, baker, sous chef and eventually owned and operated a successful catering business. 
-# I found a love for software development after getting burned out in the hospitality industry and decided to make a career change.  
+description: # your text below (remove <br> elements if you don't need line breaks)
+   First description   
   <br><br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
