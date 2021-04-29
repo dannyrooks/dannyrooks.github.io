@@ -5,8 +5,7 @@
 ### Recent Projects 
 
 [The Fishing Report](/fishing_report_page.md)
-<!-- <img src="images/Screen Shot 2021-03-17 at 5.39.13 PM.png?raw=true"/> -->
-<iframe src="https://giphy.com/embed/lLGe1mkZmAoHOaobdi" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lLGe1mkZmAoHOaobdi">via GIPHY</a></p>
+<img src="images/Screen Shot 2021-03-17 at 5.39.13 PM.png?raw=true"/>
 
 ---
 [Guitar Collection](/guitar_collection_page.md)
